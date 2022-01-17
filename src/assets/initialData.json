@@ -1,0 +1,46 @@
+{
+    "teamList": [
+        {
+            "id": "1",
+            "name_surname": "Sarp Yucel",
+            "info": "XOR Culture Member",
+            "engineer_info": "14 Level - Python Developer",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.WSIF0y0YfMWNk6H88Sw7igHaE8&pid=Api&P=0&w=238&h=159",
+            "metrics": [
+                {
+                    "field_name": "Line Of Code",
+                    "value": [12,57,56]
+                },
+                {
+                    "field_name": "Sparkling",
+                    "value": [12,79,9]
+                },
+                {
+                    "field_name": "Requirement Developed",
+                    "value": [34,65,85]
+                },
+                {
+                    "field_name": "Requirement Designed",
+                    "value": [59,89,91]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name_surname": "Selami Surname",
+            "info": "",
+            "engineer_info": "14 Level - Python Developer",
+            "image": "url_here",
+            "metrics": [
+                {
+                    "field_name": "Line Of Code",
+                    "value": [56,67]
+                },
+                {
+                    "field_name": "Unit Test",
+                    "value": [61,82]
+                }
+            ]
+        }
+    ]
+}
